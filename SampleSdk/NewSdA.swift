@@ -29,6 +29,9 @@ public class NewSdA {
     }
 
     public func displayC() {
-
+     print("display C")
     }
+    public func displayD() {
+   print("display D")
+     }
 }
